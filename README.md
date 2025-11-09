@@ -3,13 +3,13 @@ Analyze various aspects of sales performance, item popularity, customer preferen
 
 
 ## 📌 Table of Contents
+
 - <a href="#overview">Overview</a>
-- Overview
-- Business Challange
-- Dataset
-- Tools & Technologies
-- Key Findings
-- Suggestion
+- <a href="#Business_Challange">Business Challange</a>
+- <a href="#Dataset">Dataset</a>
+- <a href="#Tools & Technologies">Tools & Technologies</a>
+- <a href="#Key_Findings">Key Findings</a>
+- <a href="#Suggestion">Suggestion</a>
 
 
 ## Overview
