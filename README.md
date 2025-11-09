@@ -72,5 +72,5 @@ Dashboard shows:
 - *Sales By Category vs Months*
 - *Most Selling Item*
 
-![McDonald's Dashboard](D:/WsCube_DA/excel/McDonalds/dashboard.png)
+https://github.com/Abhishek-77/mcdonald-s_sales_analysis_excel/blob/deda1316020f6a33142babaeadc2c8f019fa995d/dashboard.png
 
