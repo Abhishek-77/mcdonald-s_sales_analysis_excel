@@ -10,6 +10,7 @@ Analyze various aspects of sales performance, item popularity, customer preferen
 - <a href="#Tools & Technologies">Tools & Technologies</a>
 - <a href="#Key_Findings">Key Findings</a>
 - <a href="#Suggestion">Suggestion</a>
+- <a href="#McDonald's_Dashboard">McDonald's Dashboard</a>
 
 
 ## Overview
